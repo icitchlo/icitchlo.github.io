@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://icitchlo.github.io/sitemap.icitchlo.gz
+Sitemap: https://icitchlo.github.io/app/sitemap.icitchlo.gz
+Sitemap: https://icitchlo.github.io/assets/sitemap.icitchlo.gz
+Sitemap: https://icitchlo.github.io/css/sitemap.icitchlo.gz
+Sitemap: https://icitchlo.github.io/data/sitemap.icitchlo.gz
+Sitemap: https://icitchlo.github.io/includes/sitemap.icitchlo.gz
+Sitemap: https://icitchlo.github.io/item/sitemap.icitchlo.gz
+Sitemap: https://icitchlo.github.io/src/sitemap.icitchlo.gz
